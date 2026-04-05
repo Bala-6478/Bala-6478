@@ -9,7 +9,12 @@
 
  
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bala5913) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_.b_a_l_.a__?utm_source=qr&igsh=MTBwcjgxcjNqeWozbA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/balavignesh-a-780a13238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Bala7160) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:balavip073@gmail.combala) 
+<p align="left">
+<a href="https://github.com/Bala-6478" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Bala-6478" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/balavignesh-a-780a13238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balavignesh-a-780a13238/" height="30" width="40" /></a>
+<a href="https://instagram.com/_.b_a_l_.a__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.b_a_l_.a__/" height="30" width="40" /></a>
+<a href="https://twitter.com/Bala7160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Bala7160" height="30" width="40" /></a>
+</p>
 
 # 💻 Tech Stack:
 <div align="left">
