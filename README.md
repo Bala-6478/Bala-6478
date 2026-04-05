@@ -1,4 +1,5 @@
 ## Hi there I am Balavignesh.A 👋
+<img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Balavignesh%20A"/>
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
