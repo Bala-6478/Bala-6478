@@ -1,10 +1,6 @@
 ## Hi there I am Balavignesh.A 👋
 <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Balavignesh%20A"/>
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
 # 💫 About Me:
 🔭 I’m currently Actively seeking new opportunities.<br><br>🌱 I’m currently learning Java.. ...<br><br>👨‍💻 All of my projects are available at https://balavignesh2025.neocities.org/Bala<br><br>📫 How to reach me ** mailto:balavip073@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1EV_vMbJPJQn1zK_HeXcMkYxVm73mUwjt/view?usp=drivesdk
 
@@ -68,6 +64,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 # 📊 GitHub Stats:
