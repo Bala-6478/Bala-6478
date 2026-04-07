@@ -72,7 +72,7 @@
 
 # 📊 GitHub Stats:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bala-6478&" alt="Bala-6478" /></p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bala-6478&" alt="Bala-6478" /></p>
 
 
 <p align="center">
