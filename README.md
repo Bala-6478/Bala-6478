@@ -72,10 +72,7 @@
 
 # 📊 GitHub Stats:
 
-<p >
- <img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=Bala-6478&" alt="Bala-6478" />
-</p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bala-6478&" alt="bala-6478" /></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
