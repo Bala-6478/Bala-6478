@@ -1,7 +1,7 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"> I'm Balavignesh A</h1>
 <h3 align="center">Software developer</h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0f2027,50:2c5364,100:00c6ff&text=Balavignesh%20A&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlign=50&fontAlignY=38&desc=Software%20Developer&descSize=20&descColor=F0F0F0&descAlign=50&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0f2027,100:2c5364&text=Balavignesh%20A&fontSize=58&fontColor=FF5733&animation=fadeIn&fontAlign=50&fontAlignY=38&desc=Software%20Developer&descSize=20&descColor=00FFFF&descAlign=50&descAlignY=60" width="100%" />
 </p>
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Bala-6478">
