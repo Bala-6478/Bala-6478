@@ -1,6 +1,14 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"> I'm Balavignesh A</h1>
 <h3 align="center">Software developer</h3>
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Balavignesh%20A&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" />
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:ffffff,100:00c6ff&text=Balavignesh%20A&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=40&desc=Software%20Developer&descSize=22&descColor=333333&descAlignY=65" />
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Balavignesh%20A&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%" />
+  </picture>
+</p>
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Bala-6478">
     <img src="https://komarev.com/ghpvc/?username=Bala-6478&label=Profile%20views&color=00FFFF&style=flat-square" alt="profile views"/>
