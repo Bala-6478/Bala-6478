@@ -3,12 +3,6 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Bala-6478">
-    <img src="https://komarev.com/ghpvc/?username=Bala-6478&label=Profile%20views&color=00FFFF&style=flat-square" alt="Bala-6478's profile views" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Bala-6478">
     <img src="https://komarev.com/ghpvc/?username=Bala-6478&label=Profile%20views&color=00FFFF&style=flat-square" alt="profile views"/>
   </a>
 </p>
