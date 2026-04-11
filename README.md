@@ -6,7 +6,23 @@
     <img src="https://komarev.com/ghpvc/?username=Bala-6478&label=Profile%20views&color=00FFFF&style=flat-square" alt="Bala-6478's profile views" />
   </a>
 </p>
+<p align="center">
+  <!-- Light Theme -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:ffffff,100:00c6ff&text=Balavignesh%20A&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=40&desc=Software%20Developer&descSize=22&descColor=333333&descAlignY=65" 
+       width="100%" 
+       media="(prefers-color-scheme: light)" />
 
+  <!-- Dark Theme -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Balavignesh%20A&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" 
+       width="100%" 
+       media="(prefers-color-scheme: dark)" />
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Bala-6478">
+    <img src="https://komarev.com/ghpvc/?username=Bala-6478&label=Profile%20views&color=00FFFF&style=flat-square" alt="profile views"/>
+  </a>
+</p>
 <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
