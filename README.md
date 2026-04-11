@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Balavignesh%20A&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"> I'm Balavignesh A</h1>
+<h3 align="center">Software developer</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Bala-6478">
