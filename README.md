@@ -27,6 +27,26 @@
   <a href="http://www.github.com/Bala-6478"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bala-6478&stroke=64748b&background=ffffff&ring=000000&fire=000000&currStreakNum=64748b&currStreakLabel=000000&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 <p align="center">
 
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/balavignesh-a-780a13238/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+  <a href="https://x.com/Bala7160" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" />
+  </a>
+  <a href="https://balavignesh2025.neocities.org/Bala" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" />
+  </a>
+  <a href="https://github.com/Bala-6478" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40" />
+  </a>
+  <a href="https://instagram.com/_.b_a_l_.a__/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
+  </a>
+</p>
+<br>
+
 # 💻 Tech Stack:
 
 <div align="left">
@@ -77,25 +97,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/balavignesh-a-780a13238/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" />
-  </a>
-  <a href="https://x.com/Bala7160" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" />
-  </a>
-  <a href="https://balavignesh2025.neocities.org/Bala" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" />
-  </a>
-  <a href="https://github.com/Bala-6478" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40" />
-  </a>
-  <a href="https://instagram.com/_.b_a_l_.a__/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
-  </a>
-</p>
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
