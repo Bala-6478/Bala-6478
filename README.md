@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"> I'm Balavignesh A</h1>
-
+<img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Balavignesh%20A"/>
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Bala-6478">
     <img src="https://komarev.com/ghpvc/?username=Bala-6478&label=Profile%20views&color=00FFFF&style=flat-square" alt="profile views"/>
