@@ -1,9 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"> I'm Balavignesh A</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0d0d0d,50:1a1a2e,100:0f0c29&text=Balavignesh%20A&fontSize=58&fontColor=A855F7&animation=fadeIn&fontAlign=50&fontAlignY=38&desc=Software%20Developer&descSize=20&descColor=00FFFF&descAlign=50&descAlignY=60" width="100%" />
-</p>
-<p align="center">
   <a href="https://komarev.com/ghpvc/?username=Bala-6478">
     <img src="https://komarev.com/ghpvc/?username=Bala-6478&label=Profile%20views&color=00FFFF&style=flat-square" alt="profile views"/>
   </a>
