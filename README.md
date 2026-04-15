@@ -31,19 +31,23 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/balavignesh-a-780a13238/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" />
-  </a>
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/SVG/Color/LinkedIN.svg" width="40" height="40" />
+  </a><br><br>
+
   <a href="https://x.com/Bala7160" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" />
-  </a>
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/SVG/Color/Twitter.svg" width="40" height="40" />
+  </a><br><br>
+
   <a href="https://balavignesh2025.neocities.org/Bala" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" />
-  </a>
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/SVG/Color/WWW.svg" width="40" height="40" />
+  </a><br><br>
+
   <a href="https://github.com/Bala-6478" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40" />
-  </a>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/github.svg" width="40" height="40" />
+  </a><br><br>
+
   <a href="https://instagram.com/_.b_a_l_.a__/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/instagram.svg" width="40" height="40" />
   </a>
 </p>
 
