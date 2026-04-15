@@ -25,7 +25,6 @@
 ## 📊 GitHub Stats 
 
 <a href="http://www.github.com/Bala-6478"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bala-6478&stroke=64748b&background=ffffff&ring=000000&fire=000000&currStreakNum=64748b&currStreakLabel=000000&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
-
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/balavignesh-a-780a13238/" target="_blank">
