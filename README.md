@@ -23,9 +23,11 @@
 
 
 ## 📊 GitHub Stats & Trophies
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bala-6478&" alt="bala-6478" /></p>
-
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/balavignesh-a-780a13238/" target="_blank">
