@@ -43,7 +43,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
   </a>
 </p>
-<br>
 
 # 💻 Tech Stack:
 <div align="left">
