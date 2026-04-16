@@ -29,21 +29,35 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/balavignesh-a-780a13238/" target="_blank" style="display:inline-block; margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40" height="40"/>
-  </a>
-  <a href="https://x.com/Bala7160" target="_blank" style="display:inline-block; margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="40" height="40"/>
-  </a>
-  <a href="https://balavignesh2025.neocities.org/Bala" target="_blank" style="display:inline-block; margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/Bala-6478" target="_blank" style="display:inline-block; margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" height="40"/>
-  </a>
-  <a href="https://instagram.com/_.b_a_l_.a__/" target="_blank" style="display:inline-block; margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
-  </a>
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://www.linkedin.com/in/balavignesh-a-780a13238/">
+          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://x.com/Bala7160">
+          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://balavignesh2025.neocities.org/Bala">
+          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Bala-6478">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://instagram.com/_.b_a_l_.a__/">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
 # 💻 Tech Stack:
