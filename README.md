@@ -23,9 +23,7 @@
 
 
 ## 📊 GitHub Stats 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Bala-6478&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Bala-6478's GitHub Streak" width="49%" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bala-6478&" alt="Bala-6478" /></p>
 
 ## 🔗 Connect with Me
 <p align="center">
