@@ -28,7 +28,23 @@
 </p>
 
 ## 🔗 Connect with Me
- 
+<p align="center">
+  <a href="https://www.linkedin.com/in/balavignesh-a-780a13238/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://x.com/Bala7160" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40"/>
+  </a>
+  <a href="https://balavignesh2025.neocities.org/Bala" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/Bala-6478" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://instagram.com/_.b_a_l_.a__/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
+  </a>
+</p>
 
 # 💻 Tech Stack:
 <div align="left">
