@@ -9,7 +9,7 @@
 ## 📌 About Me
 - 🔭 I’m currently Actively seeking new opportunities.
 - 🌱 I’m currently learning Java.. ...
-- 👨‍💻 All of my projects are available at https://balavignesh2025.neocities.org/Bala
+- 👨‍💻 All of my projects are available at https://balavignesh2025.neocities.org/New
 - 📫 How to reach me ** mailto:balavip073@gmail.com
 - 📄 Know about my experiences https://drive.google.com/file/d/1EV_vMbJPJQn1zK_HeXcMkYxVm73mUwjt/view?usp=drivesdk
 
