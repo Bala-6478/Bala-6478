@@ -18,7 +18,7 @@
 - Web Development
 - Full Stack Developer
 - AI Prompt Engineer
-- Software Developer
+- Software Developer  
 - Android  Developer
 
 
